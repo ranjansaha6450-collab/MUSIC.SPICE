@@ -1,0 +1,17 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "@discordjs/voice": "^0.16.0",
+    "distube": "^4.0.0",
+    "@distube/youtube": "^1.0.0",
+    "@distube/spotify": "^1.0.0",
+    "ffmpeg-static": "^5.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
